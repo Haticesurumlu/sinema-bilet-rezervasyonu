@@ -11,14 +11,15 @@
     <div class="container">
         <div class="screen"></div>
         <div class="row">
+            <div class="seat reserved"></div>
+            <div class="seat reserved"></div>
             <div class="seat"></div>
             <div class="seat"></div>
             <div class="seat"></div>
             <div class="seat"></div>
             <div class="seat"></div>
-            <div class="seat"></div>
-            <div class="seat"></div>
-            <div class="seat"></div> </div>
+            <div class="seat"></div> 
+        </div>
 
             <div class="row">
                 <div class="seat"></div>
@@ -71,7 +72,22 @@
 
         </select>
     </div>
-
+    <ul class="info">
+        <li>
+            <div class="seat selected"></div>
+            <small>Seçili</small>
+        </li>
+        <li>
+            <div class="seat"></div>
+            <small>Boş</small>
+        </li>
+        <li>
+            <div class="seat reserved"></div>
+            <small>Dolu</small>
+        </li>
+    </ul>
+<p class="text">
+    <span id="count">3</span> adet koltuk için hesaplanan ücret <span id="amount"> 60 </span> TL.</p>
     <script src="script.js"></script>
 </body>
 </html>
