@@ -1,7 +1,7 @@
-# sinema-bilet-rezervasyonu
+# Sinema Bilet Rezervasyonu 
 
 #Kurs
-Sıfırdan İleri Seviye Modern Javascript Dersleri ES7+
+Sadık Turan , Sıfırdan İleri Seviye Modern Javascript Dersleri ES7+
 
 # Demo
 https://haticesurumlu.github.io/sinema-bilet-rezervasyonu/
